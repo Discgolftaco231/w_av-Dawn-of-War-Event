@@ -1,4 +1,4 @@
-# Welcome to the Warfare SMP Github Repostory.
+# Welcome to the War Civilization Github Repostory.
 Here is where the wiki and devlogs for the War Civilization will be hosted.
 
 Wiki: https://github.com/Discgolftaco231/w_av-War-Civilization-Event/wiki
