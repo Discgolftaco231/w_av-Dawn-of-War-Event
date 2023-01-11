@@ -1,5 +1,5 @@
 # Welcome to the Dawn of War Github Repostory.
-Here is where the wiki and devlogs for the War Civilization will be hosted.
+Here is where the wiki and devlogs for the Dawn of War event will be hosted.
 
 Wiki: https://github.com/Discgolftaco231/w_av-Dawn-of-War-Event/wiki
 
